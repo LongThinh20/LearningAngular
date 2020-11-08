@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../dien-anh/dien-anh.component.scss"
+    ],
+    "names": [],
+    "file": "dien-anh.component.css"
+}

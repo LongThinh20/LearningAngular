@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../khuyen-mai/khuyen-mai.component.scss"
+    ],
+    "names": [],
+    "file": "khuyen-mai.component.css"
+}

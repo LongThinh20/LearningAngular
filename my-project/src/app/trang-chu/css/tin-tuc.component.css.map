@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../tin-tuc/tin-tuc.component.scss"
+    ],
+    "names": [],
+    "file": "tin-tuc.component.css"
+}
