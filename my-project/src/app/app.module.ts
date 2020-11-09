@@ -1,5 +1,3 @@
-
-
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -7,20 +5,12 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { FormsModule } from '@angular/forms';
-import { TrangChuModule } from './trang-chu/trang-chu.module';
-import { CarouselModule } from 'ngx-owl-carousel-o';
+
+import { DirectiveModule } from './directive/directive.module';
 
 @NgModule({
   declarations: [AppComponent],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    FormsModule,
-    TrangChuModule,
-    AppRoutingModule,
-    CarouselModule,
-     
-  ],
+  imports: [BrowserModule, AppRoutingModule, FormsModule, DirectiveModule],
   providers: [],
   bootstrap: [AppComponent],
 })

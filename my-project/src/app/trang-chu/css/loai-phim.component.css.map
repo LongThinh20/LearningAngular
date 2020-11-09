@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../loai-phim/loai-phim.component.scss"
-    ],
-    "names": [],
-    "file": "loai-phim.component.css"
-}

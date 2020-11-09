@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../phim-sap-chieu/phim-sap-chieu.component.scss"
-    ],
-    "names": [],
-    "file": "phim-sap-chieu.component.css"
-}
